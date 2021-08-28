@@ -60,20 +60,22 @@
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">    
   <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
+]  <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/misc/iot.svg" alt="iot" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/services/azure.svg" alt="azure" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/services/dockerhub.svg" alt="dockerhub" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/services/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/services/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/services/digitalocean.svg" alt="digitalocean" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/tools/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:4px">
 </p>
 
 ### - Portfolio 🌱
