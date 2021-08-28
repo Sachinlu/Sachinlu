@@ -63,7 +63,7 @@
   <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">    
   <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-]  <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/misc/iot.svg" alt="iot" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/misc/iot.svg" alt="iot" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
