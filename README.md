@@ -27,19 +27,19 @@
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/PvwNfTzHUX9y7ICxiF/giphy.gif" />
 <p align="center">
-  <h3> I'm 24 year old, pursuing master's in Computer Science in Canada.</h3>
+  <h3>I'm 28 years old, Senior AI Engineer at Deloitte Canada with 3+ years in Gen-AI Production-Grade Applications.</h3>
 </p>
 
- - Learning Machine Learning and Deep Learning.
+ - Designing and developing cutting-edge AI solutions in production environments.
  
- - <i>with python, Tensorflow, openCV.</i>
+ - Specializing in: Generative AI, Machine Learning, MLOps, and Cloud Architecture.
     
- - I aim to Become one of the finest machine learning engineers :heart:
+ - Passionate about transforming businesses through AI innovation.
  
- - All About living life at its best.
+ - Always exploring the next frontier in artificial intelligence.
  
  <p align="center">
-  <h4> ML | Data Analytics | Deep Learning | Computer Vision </h4>
+  <h4> Gen-AI | MLOps | Machine Learning | Cloud Computing | Data Analytics </h4>
    </p>
 
 
@@ -53,6 +53,60 @@
   </a>
 
 </p>
+
+<br />
+
+---
+
+### 🚀 A Day in My Life: Harnessing AI Innovation
+
+As a seasoned AI expert, my days are filled with designing, developing, and delivering cutting-edge solutions. Here's a glimpse into my recent projects:
+
+#### 1. 🔮 Synthetic Data Revolution
+
+Designed and developed a GEN-AI web application on Azure, generating enterprise-grade synthetic data. This innovation:
+
+- ✦ Expedited project delivery by 30%
+- ✦ Enhanced system testing, machine learning model training, and privacy-focused research
+- ✦ Provided high-quality data to clients and internal teams
+
+#### 2. 🔄 MLOps Excellence
+
+Conceptualized and executed comprehensive MLOps pipelines for clients, featuring:
+
+- ✦ Real-time prediction capabilities
+- ✦ Key performance indicators in PowerBI
+- ✦ Seamless integration with Databricks and Synapse
+
+#### 3. 🏛️ Government Innovation
+
+Led the design of an LLM-based application for the federal government, leveraging:
+
+- ✦ Google Gemini-Pro
+- ✦ Vertex-AI
+- ✦ Langchain
+- ✦ Deep learning models
+- ✦ Cloud storage
+
+Resulting in significant efficiency improvements and enhanced user response.
+
+#### 4. 📊 AI-Powered Analytics
+
+Developed a GPT-4 based Co-pilot, enabling:
+
+- ✦ Automation of complex tasks
+- ✦ Natural Language Query for data insights
+- ✦ Comprehensive analytics platform for data analysts, scientists, and business analysts
+
+Currently driving internal project quality and efficiency.
+
+---
+
+### 💡 Let's Connect
+
+Feel free to reach out and explore how AI can transform your organization!
+
+**Key Skills:** AI · Machine Learning · MLOps · Synthetic Data · Natural Language Processing · Large Language Models (LLMs) · Cloud Computing (Azure, Google Cloud) · Data Analytics · Deep Learning
 
 <br />
 
