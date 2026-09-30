@@ -1,120 +1,107 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://sachinsingh.me">sachin</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   
-   
+  <h1>Hi there, I'm <a href="https://sachinsingh.me">Sachin Singh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /></h1>
+  <p>
+    <a href="https://www.linkedin.com/in/sachin-singh-ab0348173/"><img height="30" src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/linkedin.png?raw=true" alt="LinkedIn" /></a>&nbsp;&nbsp;
+    <a href="https://sachinsingh.me"><img height="30" src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/devto.png?raw=true" alt="Portfolio" /></a>
+  </p>
 </div>
-
-<p align='center'>
-   <a href="https://www.linkedin.com/in/sachin-singh-ab0348173/"><img height="30" src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/linkedin.png?raw=true">  </a>&nbsp;&nbsp;
-  <a href="https://sachinsingh.me"><img height="30" src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/devto.png?raw=true"></a>&nbsp;&nbsp;
- </p>
-
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Sachin Singh | 💻 Learning Machine Learning | 🛸 Canada <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+  <h3>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
+    Senior AI Engineer | GenAI | Machine Learning | MLOps | Cloud
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
+  </h3>
 </div>
 
-
 <p align="center">
-   <a href="https://badges.pufler.dev/visits/sachinlu/sachinlu"> <img alt="Sachin Singh github" src="https://badges.pufler.dev/visits/sachinlu/sachinlu"> </a>
- </p>
- 
- <h5 align="center">
-   <i>⚡️Machine Learning is a god gift⚡️</i>
-  </h5>
- 
- 
-<br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/PvwNfTzHUX9y7ICxiF/giphy.gif" />
-<p align="center">
-  <h3>I'm 28 years old, Senior AI Engineer at Deloitte Canada with 3+ years in Gen-AI Production-Grade Applications.</h3>
+  <a href="https://badges.pufler.dev/visits/sachinlu/sachinlu">
+    <img alt="Profile visits" src="https://badges.pufler.dev/visits/sachinlu/sachinlu" />
+  </a>
 </p>
 
- - Designing and developing cutting-edge AI solutions in production environments.
- 
- - Specializing in: Generative AI, Machine Learning, MLOps, and Cloud Architecture.
-    
- - Passionate about transforming businesses through AI innovation.
- 
- - Always exploring the next frontier in artificial intelligence.
- 
- <p align="center">
-  <h4> Gen-AI | MLOps | Machine Learning | Cloud Computing | Data Analytics </h4>
-   </p>
+<h5 align="center">
+  <i>⚡️ Machine Learning is a god gift. ⚡️</i>
+</h5>
 
+<br />
 
+<img align="right" height="270px" width="450px" alt="AI GIF" src="https://media.giphy.com/media/PvwNfTzHUX9y7ICxiF/giphy.gif" />
 
+<p align="center">
+  <h3>I'm a 28-year-old AI Engineer based in Canada, building production-grade Generative AI and Machine Learning systems with 3+ years of hands-on experience.</h3>
+</p>
 
-<!--  -->
+- Designing and delivering high-impact AI products that drive business transformation.
+- Specializing in Generative AI, Machine Learning, MLOps, and Cloud Architecture.
+- Passionate about solving real-world problems with intelligent systems and scalable workflows.
+- Constantly exploring the next frontier of AI, data, and automation.
 
-<p align="center" >
-<a href="https://github.com/Sachinlu/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=Sachinlu&&show_icons=true&theme=highcontrast"/>
+<p align="center">
+  <h4>Gen-AI | MLOps | Machine Learning | Cloud Computing | Data Analytics</h4>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sachinlu/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sachinlu&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
   </a>
-
 </p>
 
 <br />
 
 ---
 
-### 🚀 A Day in My Life: Harnessing AI Innovation
+### 🚀 Building AI That Moves Businesses Forward
 
-As a seasoned AI expert, my days are filled with designing, developing, and delivering cutting-edge solutions. Here's a glimpse into my recent projects:
+I enjoy turning ambitious ideas into production-ready AI systems that create measurable impact. My work sits at the intersection of data, product thinking, and scalable engineering.
 
-#### 1. 🔮 Synthetic Data Revolution
+#### 1. 🔮 Synthetic Data for Real-World Impact
 
-Designed and developed a GEN-AI web application on Azure, generating enterprise-grade synthetic data. This innovation:
+Built a Gen-AI web application on Azure that generated enterprise-grade synthetic data to accelerate research, testing, and model development.
 
-- ✦ Expedited project delivery by 30%
-- ✦ Enhanced system testing, machine learning model training, and privacy-focused research
-- ✦ Provided high-quality data to clients and internal teams
+- ✦ Reduced delivery time by 30%
+- ✦ Improved ML workflows and testing reliability
+- ✦ Enabled privacy-conscious experimentation at scale
 
-#### 2. 🔄 MLOps Excellence
+#### 2. 🔄 MLOps and Intelligent Automation
 
-Conceptualized and executed comprehensive MLOps pipelines for clients, featuring:
+Designed and deployed end-to-end MLOps pipelines for business-critical use cases, including:
 
-- ✦ Real-time prediction capabilities
-- ✦ Key performance indicators in PowerBI
+- ✦ Real-time prediction systems
+- ✦ KPI dashboards in Power BI
 - ✦ Seamless integration with Databricks and Synapse
 
-#### 3. 🏛️ Government Innovation
+#### 3. 🏛️ AI for Government Innovation
 
-Led the design of an LLM-based application for the federal government, leveraging:
+Led the design of an LLM-powered application for the federal government using Google Gemini Pro, Vertex AI, LangChain, and modern cloud infrastructure.
 
-- ✦ Google Gemini-Pro
-- ✦ Vertex-AI
-- ✦ Langchain
-- ✦ Deep learning models
-- ✦ Cloud storage
+- ✦ Improved operational efficiency
+- ✦ Enabled faster and smarter responses
+- ✦ Delivered a more intuitive user experience
 
-Resulting in significant efficiency improvements and enhanced user response.
+#### 4. 📊 AI-Powered Analytics and Copilots
 
-#### 4. 📊 AI-Powered Analytics
+Built a GPT-4 based co-pilot to automate complex analysis workflows and enable natural-language interaction with business data.
 
-Developed a GPT-4 based Co-pilot, enabling:
-
-- ✦ Automation of complex tasks
-- ✦ Natural Language Query for data insights
-- ✦ Comprehensive analytics platform for data analysts, scientists, and business analysts
-
-Currently driving internal project quality and efficiency.
+- ✦ Reduced manual effort across analytics tasks
+- ✦ Empowered analysts and business teams with conversational insights
+- ✦ Improved decision-making speed and quality
 
 ---
 
-### 💡 Let's Connect
+### 💡 About Me
 
-Feel free to reach out and explore how AI can transform your organization!
+I’m a builder at heart — someone who enjoys turning advanced AI research into practical, scalable solutions. From experimentation to deployment, I care deeply about creating systems that are not only intelligent, but also useful, reliable, and impactful in the real world.
 
-**Key Skills:** AI · Machine Learning · MLOps · Synthetic Data · Natural Language Processing · Large Language Models (LLMs) · Cloud Computing (Azure, Google Cloud) · Data Analytics · Deep Learning
+Key focus areas:
+AI · Machine Learning · MLOps · Synthetic Data · NLP · Large Language Models (LLMs) · Cloud Computing (Azure, Google Cloud) · Data Analytics · Deep Learning
 
 <br />
 
-### - Languages and Tools...
+### 🛠️ Languages and Tools
 
 <p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/misc/iot.svg" alt="iot" style="vertical-align:top; margin:4px">
@@ -132,24 +119,18 @@ Feel free to reach out and explore how AI can transform your organization!
   <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:4px">
 </p>
 
-### - Portfolio 🌱
+### 🌐 Portfolio
 
 <p align="center">
   <a href="https://sachinsingh.me">
-    <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/blogs/devto.svg"> 
+    <img src="https://raw.githubusercontent.com/Sachinlu/Sachinlu/master/svg/blogs/devto.svg" alt="Portfolio" />
   </a>
 </p>
-
-
- ### - What i do
 
 <br />
 
 <p align="center">
-   <img src="https://media.giphy.com/media/3oFzlVJAzNUDwvpcc0/giphy.gif" />
-   </p>
-   
-   
-<br />
+  <img src="https://media.giphy.com/media/3oFzlVJAzNUDwvpcc0/giphy.gif" alt="Creative coding" />
+</p>
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<h1 align="center">⚡️<i>Stay awesome!</i>⚡️</h1>
